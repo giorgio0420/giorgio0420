@@ -37,10 +37,8 @@ Started in **Electronic Engineering** — microcontrollers, DSP, circuits, a the
 
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=giorgio0420&show_icons=true&theme=default&hide_border=true&v=1" alt="giorgio0420's GitHub stats" />
   <img height="150" src="https://streak-stats.demolab.com/?user=giorgio0420&hide_border=true" alt="giorgio0420's streak" />
 </p>
-
 
 ### 🐍 my contributions, eaten by a snake
 
