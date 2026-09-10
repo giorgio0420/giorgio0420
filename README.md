@@ -66,10 +66,3 @@ Started in **Electronic Engineering** — microcontrollers, DSP, circuits, a the
 📧 desantisgiorgio20@gmail.com &nbsp;|&nbsp; 🌍 Rome, Italy
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=giorgio0420.giorgio0420" alt="visitor badge" /></p>
-
-
-### 📫 reach me
-
-📧 desantisgiorgio20@gmail.com &nbsp;|&nbsp; 🌍 Rome, Italy
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=giorgio0420.giorgio0420" alt="visitor badge" /></p>
