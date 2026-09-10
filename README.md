@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Giorgio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer-in-training;Making+robots+stop+crashing+into+things%2C+on+purpose;Also+a+part-time+commis+de+cuisine+%F0%9F%8D%B3" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=1E90FF&center=true&vCenter=true&width=600&lines=Robotics+%26+AI+Engineer-in-training;Perception%2C+control+%26+computer+vision" alt="typing banner" />
 </p>
 
 <p align="center">
@@ -60,6 +60,13 @@ Started in **Electronic Engineering** — microcontrollers, DSP, circuits, a the
 | [`RemoteSensing-Segmentation-NN`](https://github.com/giorgio0420/RemoteSensing-Segmentation-NN) | U-Net & Swin Transformer land-cover segmentation, SatMAE++ pretrained |
 | [`Drone-UAV-Obstacle-Avoidance`](https://github.com/giorgio0420/Drone-UAV-Obstacle-Avoidance) | Vortex-vector-field navigation for UAVs |
 | [`qultura`](https://github.com/giorgio0420/qultura) | My own automated content-curation system, running daily |
+
+### 📫 reach me
+
+📧 desantisgiorgio20@gmail.com &nbsp;|&nbsp; 🌍 Rome, Italy
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=giorgio0420.giorgio0420" alt="visitor badge" /></p>
+
 
 ### 📫 reach me
 
