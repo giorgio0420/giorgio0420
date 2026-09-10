@@ -35,8 +35,9 @@ Started in **Electronic Engineering** — microcontrollers, DSP, circuits, a the
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=giorgio0420&show_icons=true&theme=default&hide_border=true" alt="giorgio0420's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=giorgio0420&show_icons=true&theme=default&hide_border=true&v=1" alt="giorgio0420's GitHub stats" />
   <img height="150" src="https://streak-stats.demolab.com/?user=giorgio0420&hide_border=true" alt="giorgio0420's streak" />
 </p>
 
