@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/M.Sc.-AI%20%26%20Robotics%20@%20Sapienza-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/B.Sc.-Electronic%20Engineering-1E90FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-graduating%20March%202027-brightgreen?style=flat-square" />
 </p>
 
 ---
