@@ -60,8 +60,4 @@ Started in **Electronic Engineering** — microcontrollers, DSP, circuits, a the
 | [`Drone-UAV-Obstacle-Avoidance`](https://github.com/giorgio0420/Drone-UAV-Obstacle-Avoidance) | Vortex-vector-field navigation for UAVs |
 | [`qultura`](https://github.com/giorgio0420/qultura) | My own automated content-curation system, running daily |
 
-### 📫 reach me
-
-📧 desantisgiorgio20@gmail.com &nbsp;|&nbsp; 🌍 Rome, Italy
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=giorgio0420.giorgio0420" alt="visitor badge" /></p>
+🌍 Rome, Italy
