@@ -26,4 +26,4 @@ solution, to see whether they actually work. Three to start with:
 
 The rest are pinned below, or in the repository list.
 
-Rome, Italy · desantisgiorgio20@gmail.com
+Rome, Italy · [giorgio0420.github.io](https://giorgio0420.github.io) · desantisgiorgio20@gmail.com
